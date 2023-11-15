@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sneak-hype/static/css/main.eed9da98.css",
+    "main.js": "/sneak-hype/static/js/main.003b0e5f.js",
+    "static/js/787.1a40a256.chunk.js": "/sneak-hype/static/js/787.1a40a256.chunk.js",
+    "index.html": "/sneak-hype/index.html",
+    "main.eed9da98.css.map": "/sneak-hype/static/css/main.eed9da98.css.map",
+    "main.003b0e5f.js.map": "/sneak-hype/static/js/main.003b0e5f.js.map",
+    "787.1a40a256.chunk.js.map": "/sneak-hype/static/js/787.1a40a256.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eed9da98.css",
+    "static/js/main.003b0e5f.js"
+  ]
+}
