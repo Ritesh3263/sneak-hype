@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sneak-hype/static/css/main.eed9da98.css",
-    "main.js": "/sneak-hype/static/js/main.003b0e5f.js",
+    "main.css": "/sneak-hype/static/css/main.ceafd255.css",
+    "main.js": "/sneak-hype/static/js/main.3eba4fab.js",
     "static/js/787.1a40a256.chunk.js": "/sneak-hype/static/js/787.1a40a256.chunk.js",
     "index.html": "/sneak-hype/index.html",
-    "main.eed9da98.css.map": "/sneak-hype/static/css/main.eed9da98.css.map",
-    "main.003b0e5f.js.map": "/sneak-hype/static/js/main.003b0e5f.js.map",
+    "main.ceafd255.css.map": "/sneak-hype/static/css/main.ceafd255.css.map",
+    "main.3eba4fab.js.map": "/sneak-hype/static/js/main.3eba4fab.js.map",
     "787.1a40a256.chunk.js.map": "/sneak-hype/static/js/787.1a40a256.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eed9da98.css",
-    "static/js/main.003b0e5f.js"
+    "static/css/main.ceafd255.css",
+    "static/js/main.3eba4fab.js"
   ]
 }
