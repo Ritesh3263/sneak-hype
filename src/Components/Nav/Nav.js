@@ -7,7 +7,7 @@ const Nav = ({filterItem, filteredcategory}) => {
   return (
     <>
       <div className='text-center py-10 '>
-        <div className="inline-flex rounded-lg  nav-shadow bg-white content-v-auto" role="group">
+        <div className="inline-flex rounded-lg mb-resp nav-shadow bg-white content-v-auto" role="group">
           
           {
             filteredcategory.map((elem)=>{
